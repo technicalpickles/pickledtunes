@@ -8,8 +8,12 @@ Notes, links, resources from experimenting making musics
   - https://glitchmachines.com/products/fracture/
   - https://www.youtube.com/playlist?list=PLxPcKa7ksPr2xct4Q32wav0DWw0BQif1o
   - https://www.wikihow.com/Make-a-Chiptune
+  - https://woolyss.com/chipmusic-plugins.php
+- Ableton
+  - https://www.youtube.com/watch?v=7QKY3wFEx7g
 - Plugins
   - [VST Chord Generators](http://www.sidebrain.net/chord-generators/)
+  - https://blog.landr.com/the-7-best-free-synth-vst-plugins/
 - Soundfonts
   - https://www.plogue.com/products/sforzando.html
   - https://trisamples.com/free-soundfonts/
