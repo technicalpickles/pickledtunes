@@ -18,6 +18,7 @@ Notes, links, resources from experimenting making musics
   - [VST Chord Generators](http://www.sidebrain.net/chord-generators/)
   - https://blog.landr.com/the-7-best-free-synth-vst-plugins/
   - https://www.basskleph.com/download-easy-wash-out
+  - http://michaelnorris.info/software/soundmagic-spectral
 - Soundfonts
   - https://www.plogue.com/products/sforzando.html
   - https://trisamples.com/free-soundfonts/
