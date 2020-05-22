@@ -6,7 +6,8 @@ Notes, links, resources from experimenting making musics
   - [Magical 8Bit Plug 2](http://ymck.net/en/download/magical8bitplug/index.html)
   - https://glitchmachines.com/products/hysteresis/
   - https://glitchmachines.com/products/fracture/
-  - hhttps://www.youtube.com/playlist?list=PLxPcKa7ksPr2xct4Q32wav0DWw0BQif1o
+  - https://www.youtube.com/playlist?list=PLxPcKa7ksPr2xct4Q32wav0DWw0BQif1o
+  - https://www.wikihow.com/Make-a-Chiptune
 - Plugins
   - [VST Chord Generators](http://www.sidebrain.net/chord-generators/)
 - Soundfonts
