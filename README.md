@@ -11,9 +11,13 @@ Notes, links, resources from experimenting making musics
   - https://woolyss.com/chipmusic-plugins.php
 - Ableton
   - https://www.youtube.com/watch?v=7QKY3wFEx7g
+  - https://cymatics.fm/blogs/production/free-ableton-effect-racks
+  - https://www.ableton.com/en/blog/free-stuff-friday-june-13-2014/
+  - http://austinabletontutor.com/free-effects-racks/
 - Plugins
   - [VST Chord Generators](http://www.sidebrain.net/chord-generators/)
   - https://blog.landr.com/the-7-best-free-synth-vst-plugins/
+  - https://www.basskleph.com/download-easy-wash-out
 - Soundfonts
   - https://www.plogue.com/products/sforzando.html
   - https://trisamples.com/free-soundfonts/
