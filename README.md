@@ -21,6 +21,8 @@ Notes, links, resources from experimenting making musics
   - http://michaelnorris.info/software/soundmagic-spectral
   - https://www.meldaproduction.com/MFreeFxBundle
   - https://www.mpcindia.co/camel-crusher/  (overdrive for ableton live lite)
+- Instruments
+  - https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/
 - Soundfonts
   - https://www.plogue.com/products/sforzando.html
   - https://trisamples.com/free-soundfonts/
@@ -30,3 +32,8 @@ Notes, links, resources from experimenting making musics
   - https://expandingsound.com/free-stuff/
 - [Roli](https://roli.com/)
   - [Dynamic Controls](https://swonic.com/dynamic-controls/), [example layout](https://www.reddit.com/r/ROLI/comments/gjlcfq/roli_lightpad_block_dynamic_controls/)
+
+
+- Someday (ie dollar signs)
+  - https://www.soundtoys.com/product/little-alterboy/
+  - https://www.xlnaudio.com/products/xo
