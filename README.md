@@ -20,6 +20,7 @@ Notes, links, resources from experimenting making musics
   - https://www.basskleph.com/download-easy-wash-out
   - http://michaelnorris.info/software/soundmagic-spectral
   - https://www.meldaproduction.com/MFreeFxBundle
+  - https://www.mpcindia.co/camel-crusher/  (overdrive for ableton live lite)
 - Soundfonts
   - https://www.plogue.com/products/sforzando.html
   - https://trisamples.com/free-soundfonts/
