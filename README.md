@@ -32,7 +32,8 @@ Notes, links, resources from experimenting making musics
   - https://expandingsound.com/free-stuff/
 - [Roli](https://roli.com/)
   - [Dynamic Controls](https://swonic.com/dynamic-controls/), [example layout](https://www.reddit.com/r/ROLI/comments/gjlcfq/roli_lightpad_block_dynamic_controls/)
-
+- Learning
+  - https://iconcollective.edu/types-of-eq/
 
 - Someday (ie dollar signs)
   - https://www.soundtoys.com/product/little-alterboy/
