@@ -11,6 +11,7 @@ Notes, links, resources from experimenting making musics
   - https://woolyss.com/chipmusic-plugins.php
   - https://www.michaelpichermusic.com/8-bit-chip
   - https://socalabs.com/
+  - https://www.uppercussion.com/products/bitkits
 - Ableton
   - https://www.youtube.com/watch?v=7QKY3wFEx7g
   - https://cymatics.fm/blogs/production/free-ableton-effect-racks
