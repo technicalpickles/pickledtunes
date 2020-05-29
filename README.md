@@ -23,7 +23,6 @@ Notes, links, resources from experimenting making musics
   - http://michaelnorris.info/software/soundmagic-spectral
   - https://www.meldaproduction.com/MFreeFxBundle
   - https://www.mpcindia.co/camel-crusher/  (overdrive for ableton live lite)
-- Instruments
   - https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/
 - Soundfonts
   - https://www.plogue.com/products/sforzando.html
@@ -41,3 +40,4 @@ Notes, links, resources from experimenting making musics
   - https://www.soundtoys.com/product/little-alterboy/
   - https://www.xlnaudio.com/products/xo
   - https://xferrecords.com/products/serum/
+  - https://www.native-instruments.com/en/products/komplete/synths/massive/
