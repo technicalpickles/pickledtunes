@@ -9,6 +9,8 @@ Notes, links, resources from experimenting making musics
   - https://www.youtube.com/playlist?list=PLxPcKa7ksPr2xct4Q32wav0DWw0BQif1o
   - https://www.wikihow.com/Make-a-Chiptune
   - https://woolyss.com/chipmusic-plugins.php
+  - https://www.michaelpichermusic.com/8-bit-chip
+  - https://socalabs.com/
 - Ableton
   - https://www.youtube.com/watch?v=7QKY3wFEx7g
   - https://cymatics.fm/blogs/production/free-ableton-effect-racks
@@ -38,3 +40,4 @@ Notes, links, resources from experimenting making musics
 - Someday (ie dollar signs)
   - https://www.soundtoys.com/product/little-alterboy/
   - https://www.xlnaudio.com/products/xo
+  - https://xferrecords.com/products/serum/
