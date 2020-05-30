@@ -42,3 +42,4 @@ Notes, links, resources from experimenting making musics
   - https://www.xlnaudio.com/products/xo
   - https://xferrecords.com/products/serum/
   - https://www.native-instruments.com/en/products/komplete/synths/massive/
+  - https://sounds.com/samples/creator/617
