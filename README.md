@@ -17,6 +17,8 @@ Notes, links, resources from experimenting making musics
   - https://cymatics.fm/blogs/production/free-ableton-effect-racks
   - https://www.ableton.com/en/blog/free-stuff-friday-june-13-2014/
   - http://austinabletontutor.com/free-effects-racks/
+  - simpler vs sample: https://ask.audio/articles/ableton-live-simpler-vs-sampler
+  - https://www.ableton.com/en/manual/routing-and-i-o/
 - Plugins
   - [VST Chord Generators](http://www.sidebrain.net/chord-generators/)
   - https://blog.landr.com/the-7-best-free-synth-vst-plugins/
@@ -25,6 +27,8 @@ Notes, links, resources from experimenting making musics
   - https://www.meldaproduction.com/MFreeFxBundle
   - https://www.mpcindia.co/camel-crusher/  (overdrive for ableton live lite)
   - https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/
+  - https://xferrecords.com/freeware
+  - http://michaelnorris.info/software/soundmagic-spectral
 - Soundfonts
   - https://www.plogue.com/products/sforzando.html
   - https://trisamples.com/free-soundfonts/
@@ -36,7 +40,10 @@ Notes, links, resources from experimenting making musics
   - [Dynamic Controls](https://swonic.com/dynamic-controls/), [example layout](https://www.reddit.com/r/ROLI/comments/gjlcfq/roli_lightpad_block_dynamic_controls/)
 - Learning
   - https://iconcollective.edu/types-of-eq/
-
+  - https://www.factmag.com/tag/against-the-clock/
+- Visualizations
+  - https://codame.com/events/workshop-shaders
+  - https://gist.github.com/skullface/9f5823e3f6e2533f388275bb3baa5a18
 - Someday (ie dollar signs)
   - https://www.soundtoys.com/product/little-alterboy/
   - https://www.xlnaudio.com/products/xo
