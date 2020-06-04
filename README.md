@@ -31,13 +31,15 @@ Notes, links, resources from experimenting making musics
   - https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/
   - https://xferrecords.com/freeware
   - http://michaelnorris.info/software/soundmagic-spectral
+  - https://www.meldaproduction.com/MCompressor
 - Soundfonts
   - https://www.plogue.com/products/sforzando.html
   - https://trisamples.com/free-soundfonts/
   
   - https://www.williamkage.com/snes_soundfonts
-- Instrument packs
+- Sound and Instrument packs
   - https://expandingsound.com/free-stuff/
+  - https://cymatics.fm/pages/free-download-vault
 - [Roli](https://roli.com/)
   - [Dynamic Controls](https://swonic.com/dynamic-controls/), [example layout](https://www.reddit.com/r/ROLI/comments/gjlcfq/roli_lightpad_block_dynamic_controls/)
 - Learning
