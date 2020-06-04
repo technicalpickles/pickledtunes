@@ -11,7 +11,9 @@ Notes, links, resources from experimenting making musics
   - https://woolyss.com/chipmusic-plugins.php
   - https://www.michaelpichermusic.com/8-bit-chip
   - https://socalabs.com/
-  - https://www.uppercussion.com/products/bitkits
+  - Drumkits
+    - https://www.uppercussion.com/products/bitkits
+    - https://bedroomproducersblog.com/2015/04/08/game-boy-drum-kit/
 - Ableton
   - https://www.youtube.com/watch?v=7QKY3wFEx7g
   - https://cymatics.fm/blogs/production/free-ableton-effect-racks
@@ -50,3 +52,4 @@ Notes, links, resources from experimenting making musics
   - https://xferrecords.com/products/serum/
   - https://www.native-instruments.com/en/products/komplete/synths/massive/
   - https://sounds.com/samples/creator/617
+  - https://nativekontrol.com/arsenal-lpp $10
