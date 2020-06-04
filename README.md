@@ -54,3 +54,4 @@ Notes, links, resources from experimenting making musics
   - https://sounds.com/samples/creator/617
   - https://nativekontrol.com/arsenal-lpp $10
   - https://yoursecretsauce.net/products/the-sauce
+  - https://www.kickstart-plugin.com/ $15
