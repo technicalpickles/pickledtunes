@@ -37,9 +37,10 @@ Notes, links, resources from experimenting making musics
   - https://trisamples.com/free-soundfonts/
   
   - https://www.williamkage.com/snes_soundfonts
-- Sound and Instrument packs
+- Sound, Sample, and Instrument packs
   - https://expandingsound.com/free-stuff/
   - https://cymatics.fm/pages/free-download-vault
+  - https://oversampled.us/collections/free-packs
 - [Roli](https://roli.com/)
   - [Dynamic Controls](https://swonic.com/dynamic-controls/), [example layout](https://www.reddit.com/r/ROLI/comments/gjlcfq/roli_lightpad_block_dynamic_controls/)
 - Learning
