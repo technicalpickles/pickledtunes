@@ -44,6 +44,7 @@ Notes, links, resources from experimenting making musics
   - https://oversampled.us/collections/free-packs
   - https://www.ghosthack.de/free_sample_packs/
   - https://gumroad.com/whu/
+  - https://drumsthatknock.com/
 - [Roli](https://roli.com/)
   - [Dynamic Controls](https://swonic.com/dynamic-controls/), [example layout](https://www.reddit.com/r/ROLI/comments/gjlcfq/roli_lightpad_block_dynamic_controls/)
 - Learning
