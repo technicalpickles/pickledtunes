@@ -21,6 +21,7 @@ Notes, links, resources from experimenting making musics
   - http://austinabletontutor.com/free-effects-racks/
   - simpler vs sample: https://ask.audio/articles/ableton-live-simpler-vs-sampler
   - https://www.ableton.com/en/manual/routing-and-i-o/
+  - [Arrangement Clip grayed out](https://forum.ableton.com/viewtopic.php?t=107006)
 - Plugins
   - [VST Chord Generators](http://www.sidebrain.net/chord-generators/)
   - https://blog.landr.com/the-7-best-free-synth-vst-plugins/
