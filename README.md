@@ -42,6 +42,7 @@ Notes, links, resources from experimenting making musics
   - https://cymatics.fm/pages/free-download-vault
   - https://oversampled.us/collections/free-packs
   - https://www.ghosthack.de/free_sample_packs/
+  - https://gumroad.com/whu/
 - [Roli](https://roli.com/)
   - [Dynamic Controls](https://swonic.com/dynamic-controls/), [example layout](https://www.reddit.com/r/ROLI/comments/gjlcfq/roli_lightpad_block_dynamic_controls/)
 - Learning
@@ -59,3 +60,4 @@ Notes, links, resources from experimenting making musics
   - https://nativekontrol.com/arsenal-lpp $10
   - https://yoursecretsauce.net/products/the-sauce
   - https://www.kickstart-plugin.com/ $15
+  - https://www.waves.com/plugins/api-2500 $35
