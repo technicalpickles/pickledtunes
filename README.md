@@ -14,6 +14,7 @@ Notes, links, resources from experimenting making musics
   - Drumkits
     - https://www.uppercussion.com/products/bitkits
     - https://bedroomproducersblog.com/2015/04/08/game-boy-drum-kit/
+    
 - Ableton
   - https://www.youtube.com/watch?v=7QKY3wFEx7g
   - https://cymatics.fm/blogs/production/free-ableton-effect-racks
@@ -22,6 +23,12 @@ Notes, links, resources from experimenting making musics
   - simpler vs sample: https://ask.audio/articles/ableton-live-simpler-vs-sampler
   - https://www.ableton.com/en/manual/routing-and-i-o/
   - [Arrangement Clip grayed out](https://forum.ableton.com/viewtopic.php?t=107006)
+  - [Arming multiple tracks](https://forum.ableton.com/viewtopic.php?t=161882)
+  - https://www.ableton.com/en/live/learn-live/
+  - https://www.ableton.com/en/manual/instrument-drum-and-effect-racks/
+  - https://help.ableton.com/hc/en-us/articles/360010389480-Using-MIDI-CC-in-Live
+  - https://patches.zone/switching-settings-ableton-live
+  - https://forum.ableton.com/viewtopic.php?t=157866
 - Plugins
   - [VST Chord Generators](http://www.sidebrain.net/chord-generators/)
   - https://blog.landr.com/the-7-best-free-synth-vst-plugins/
@@ -33,10 +40,10 @@ Notes, links, resources from experimenting making musics
   - https://xferrecords.com/freeware
   - http://michaelnorris.info/software/soundmagic-spectral
   - https://www.meldaproduction.com/MCompressor
+  - https://www.kvraudio.com/plugins/macosx/instruments/effects/hosts/free/newest
 - Soundfonts
   - https://www.plogue.com/products/sforzando.html
   - https://trisamples.com/free-soundfonts/
-  
   - https://www.williamkage.com/snes_soundfonts
 - Sound, Sample, and Instrument packs
   - https://expandingsound.com/free-stuff/
@@ -45,14 +52,25 @@ Notes, links, resources from experimenting making musics
   - https://www.ghosthack.de/free_sample_packs/
   - https://gumroad.com/whu/
   - https://drumsthatknock.com/
+  - https://expandingsound.com/free-stuff/
+  - https://thehighestproducers.com/midi-file/ultimate-list/
+  - https://www.flstudiomusic.com/2019/09/ghosthack-intros-60-free-midi-files-melodies-arps-chords-basses.html
+  - https://www.ghosthack.de/free_sample_packs/
 - [Roli](https://roli.com/)
   - [Dynamic Controls](https://swonic.com/dynamic-controls/), [example layout](https://www.reddit.com/r/ROLI/comments/gjlcfq/roli_lightpad_block_dynamic_controls/)
 - Learning
   - https://iconcollective.edu/types-of-eq/
   - https://www.factmag.com/tag/against-the-clock/
+  - https://iconcollective.edu/edm-drop-tips/
+  - https://sound-sculpting.blogspot.com/2011/06/how-is-sound-design-different-to-sound.html
+  - https://www.reddit.com/r/ableton/comments/gy16ab/why_do_tracks_sometimes_sound_quiet_when_they/
+  - https://www.edmtips.com/how-to-make-electronic-music/
+  - https://www.ableton.com/en/blog/sidechain-compression-part-1/
 - Visualizations
   - https://codame.com/events/workshop-shaders
   - https://gist.github.com/skullface/9f5823e3f6e2533f388275bb3baa5a18
+- Novation Launchpad
+  - [User Guide](https://customer.novationmusic.com/sites/customer/files/downloads/Launchpad%20X%20-%20User%20Guide.pdf)
 - Someday (ie dollar signs)
   - https://www.soundtoys.com/product/little-alterboy/
   - https://www.xlnaudio.com/products/xo
@@ -63,3 +81,6 @@ Notes, links, resources from experimenting making musics
   - https://yoursecretsauce.net/products/the-sauce
   - https://www.kickstart-plugin.com/ $15
   - https://www.waves.com/plugins/api-2500 $35
+  
+- Stuff from walden
+
