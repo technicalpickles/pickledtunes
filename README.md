@@ -41,6 +41,8 @@ Notes, links, resources from experimenting making musics
   - http://michaelnorris.info/software/soundmagic-spectral
   - https://www.meldaproduction.com/MCompressor
   - https://www.kvraudio.com/plugins/macosx/instruments/effects/hosts/free/newest
+  - https://valhalladsp.com/plugins/
+  - https://reflektaudio.com/product-category/freebies/page/1
 - Soundfonts
   - https://www.plogue.com/products/sforzando.html
   - https://trisamples.com/free-soundfonts/
@@ -56,6 +58,7 @@ Notes, links, resources from experimenting making musics
   - https://thehighestproducers.com/midi-file/ultimate-list/
   - https://www.flstudiomusic.com/2019/09/ghosthack-intros-60-free-midi-files-melodies-arps-chords-basses.html
   - https://www.ghosthack.de/free_sample_packs/
+  - https://reflektaudio.com/product-category/freebies/page/1
 - [Roli](https://roli.com/)
   - [Dynamic Controls](https://swonic.com/dynamic-controls/), [example layout](https://www.reddit.com/r/ROLI/comments/gjlcfq/roli_lightpad_block_dynamic_controls/)
 - Learning
