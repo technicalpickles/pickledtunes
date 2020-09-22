@@ -29,30 +29,44 @@ midi_out = "iac_driver_sonic_pi"
 state = {
 }
 
-
 teal = 37
 pink = 56
 
 
-offsets.each do |offset|
-  if dice(2) == 2
-    midi_note_on offset, teal, port: launchpad_out, channel: static_color
-    state[offset] = true
-  else
-    midi_note_off offset, port: launchpad_out, channel: static_color
-    state[offset] = false
+note_length = 0.15
+
+
+define :step_on do |offset|
+  midi_note_on offset, teal, port: launchpad_out, channel: static_color
+  state[offset] = true
+end
+
+define :step_off do |offset|
+  midi_note_off offset, port: launchpad_out, channel: static_color
+  state[offset] = false
+end
+
+define :toggle_step do |offset|
+  if !state[offset] # off, now on
+    step_on(offset)
+  else # on, now off
+    step_off(offset)
   end
 end
 
 
-note_length = 0.15
+offsets.each do |offset|
+  if dice(2) == 2
+    step_on(offset)
+  else
+    step_off(offset)
+  end
+end
 
 live_loop :clock do
   use_real_time
   
   offsets.each do |offset|
-    puts "clock:aiiiiiiiiiiiiiiii"
-    
     note = offset
     
     midi_note_on note, pink, port: launchpad_out, channel: static_color
@@ -78,13 +92,8 @@ end
 live_loop :toggles do
   use_real_time
   note, velocity = sync "/midi:launchpad_x_lpx_midi_out:4:1/note_on"
-  state[note] = !state[note]
+  toggle_step(note)
   
-  if state[note]
-    midi_note_on note, teal, port: launchpad_out, channel: static_color
-  else
-    midi_note_off note, port: launchpad_out, channel: static_color
-  end
   # sleep a little to prevent key up from triggering it again
   sleep note_length
 end
@@ -92,10 +101,7 @@ end
 
 live_loop :kick do
   use_real_time
-  puts "aiiiiiiiiiiiiiiii"
   note, velocity = sync "/midi:#{midi_out}:1:1/note_on"
-  puts note
-  puts velocity
   sample :drum_heavy_kick, amp: 0.5
 end
 
